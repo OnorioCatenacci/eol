@@ -1,4 +1,4 @@
-Eol
+eol
 ===
 
-** TODO: Add description **
+Elixir ODBC Library
