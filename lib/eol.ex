@@ -1,0 +1,2 @@
+defmodule Eol do
+end
