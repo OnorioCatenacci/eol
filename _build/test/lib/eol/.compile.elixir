@@ -1,1 +1,2 @@
-_build/test/lib/eol/ebin/Elixir.Eol.beam	Elixir.Eol	lib/eol.ex	Elixir.IO	Elixir.Kernel	Elixir.String	Elixir.String.Chars	odbc	Elixir
+_build/test/lib/eol/ebin/Elixir.ConnectionString.beam	Elixir.ConnectionString	lib/ConnectionString.ex	Elixir.ArgumentError	Elixir.Kernel	Elixir.Kernel.Typespec	Elixir.Module	Elixir.Protocol	Elixir.String	Elixir.String.Chars	erlang	lists	maps	Elixir
+_build/test/lib/eol/ebin/Elixir.Eol.beam	Elixir.Eol	lib/eol.ex	Elixir.ConnectionString	odbc	Elixir
