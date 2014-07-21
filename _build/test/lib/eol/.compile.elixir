@@ -1,1 +1,1 @@
-_build/test/lib/eol/ebin/Elixir.Eol.beam	Elixir.Eol	lib/eol.ex	Elixir
+_build/test/lib/eol/ebin/Elixir.Eol.beam	Elixir.Eol	lib/eol.ex	Elixir.IO	Elixir.Kernel	Elixir.String	Elixir.String.Chars	odbc	Elixir
